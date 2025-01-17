@@ -1,6 +1,6 @@
 # Min-Khant-Thu
 # 💫 About Me:
-👋I'm a beginner Web Developer<br>🌱 I’m currently learning Laravel, React And Next<br>⚡ I enjoy building project to make strengthen my coding skills
+👋I'm a beginner Web Developer<br>🌱 I’m currently learning Laravel,TypeScript, React And Next<br>⚡ I enjoy building project to make strengthen my coding skills
 
 
 ## 🌐 Socials:
